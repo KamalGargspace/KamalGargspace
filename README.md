@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Kamal Garg, a passionate sophomore in Computer Science Engineering (CSE) at NIT Kurukshetra.My goal is to use my skills to build impactful, real-world projects.
+## 👋 Hey there! I'm Kamal Garg, a passionate pre-final year in Computer Science Engineering (CSE) at NIT Kurukshetra.My goal is to use my skills to build impactful, real-world projects.
 
 # 💫 About Me:
 🔭 I’m currently working on: DSA, JavaScript, Machine Learning, and Backend Development.<br>👯 I’m looking to collaborate on: ML projects, Backend Systems, and Web Development.<br>🤝 I’m looking for help with: Machine Learning and Cloud Technologies.<br>🌱 I’m currently learning: APIs, Node.js, and DevOps.<br>💬 Ask me about: Python, C++, JavaScript, and Firestore Database.<br>⚡ Fun fact: Passionate about AI and love solving problems with clean code!
