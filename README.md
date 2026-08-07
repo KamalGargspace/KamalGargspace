@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-> I am a pre-final year engineering student with a strong foundation in problem-solving and writing clean, optimized code. My technical focus lies at the intersection of Backend Development, Machine Learning, and Data Structures & Algorithms. I am actively seeking opportunities to build robust systems and collaborate on innovative, real-world engineering projects.
+> I am a final year engineering student with a strong foundation in problem-solving and writing clean, optimized code. My technical focus lies at the intersection of Backend Development, Machine Learning, and Data Structures & Algorithms. I am actively seeking opportunities to build robust systems and collaborate on innovative, real-world engineering projects.
 
 ## Current Objectives
 
